@@ -1,5 +1,7 @@
 # MOSS-Image Desktop
 
+> 下载地址：[Releases · v0.1.0](https://github.com/John-20260101/moss-image-desktop/releases/tag/v0.1.0)
+
 把本地 **MOSS-Image 工作台**（Gradio 网页 `127.0.0.1:7860`）封装成 macOS 桌面 App 的 Pake / Tauri 外壳。
 图标是扁平矢量狸花猫（蜷缩环猫），窗口 1280×860，Apple Silicon（arm64）。
 
