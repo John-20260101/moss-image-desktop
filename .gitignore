@@ -1,0 +1,7 @@
+node_modules/
+toolchain/
+dmg-staging/
+*.dmg
+*.log
+src-tauri/target/
+.DS_Store
